@@ -13,3 +13,12 @@ https://www.tabnews.com.br clone para estudos aprofundados em programação foca
 >
 
 # TDD - Test Driven Development
+
+
+## Banco de dados
+# DBMS
+PostgreSQL  (ops MySQL)
+# Query
+Manual pelo modulo pg   (ops ORM)
+# Migrations
+node-pg-migrate
