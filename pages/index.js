@@ -16,8 +16,7 @@ function Home() {
       </header>
       <main>
         <p>
-          Nosso pedacinho de internet ta aqui, dia 30 terá uma página foda
-          construída aqui!
+          Contato: <a href="https://www.instagram.com/sam.damazio/">Sam</a> & <a href="https://www.instagram.com/joaoluizmbraga/">MB</a> 
         </p>
       </main>
       <footer
@@ -30,7 +29,7 @@ function Home() {
           backgroundColor: "#ddd",
         }}
       >
-        <p>Founders: Samuel Damazio & Martins Braga</p>
+        <p><strong>Founders:</strong> Samuel Damazio & João Martins Braga</p>
       </footer>
     </div>
   );
