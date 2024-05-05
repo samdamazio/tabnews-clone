@@ -22,3 +22,5 @@ PostgreSQL  (ops MySQL)
 Manual pelo modulo pg   (ops ORM)
 # Migrations
 node-pg-migrate
+# Homologação
+branches secundarias automaticamente indo pra preview na vercel, variaves de ambiente configuradas na vercel para dbs: production neon e preview neon.
