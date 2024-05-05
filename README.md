@@ -24,3 +24,7 @@ Manual pelo modulo pg   (ops ORM)
 node-pg-migrate
 # Homologação
 branches secundarias automaticamente indo pra preview na vercel, variaves de ambiente configuradas na vercel para dbs: production neon e preview neon.
+
+## CURL
+curl https://tabnews-clone-git-fix-migrations-13629b-samus-projects-e199053f.vercel.app/api/v1/status | python3 -m json.tool
+curl -s https://tabnews-clone-git-fix-migrations-13629b-samus-projects-e199053f.vercel.app/api/v1/status | python3 -m json.tool
