@@ -16,7 +16,8 @@ function Home() {
       </header>
       <main>
         <p>
-          Contato: <a href="https://www.instagram.com/sam.damazio/">Sam</a> & <a href="https://www.instagram.com/joaoluizmbraga/">MB</a> 
+          Contato: <a href="https://www.instagram.com/sam.damazio/">Sam</a> &{" "}
+          <a href="https://www.instagram.com/joaoluizmbraga/">MB</a>
         </p>
       </main>
       <footer
@@ -29,7 +30,9 @@ function Home() {
           backgroundColor: "#ddd",
         }}
       >
-        <p><strong>Founders:</strong> Samuel Damazio & João Martins Braga</p>
+        <p>
+          <strong>Founders:</strong> Samuel Damazio & João Martins Braga
+        </p>
       </footer>
     </div>
   );
